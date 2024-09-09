@@ -1,0 +1,17 @@
+B:\Babbu_BHai\data_display_by_expary_data\data_display_by_expary_data\bin\Debug\net6.0-windows\data_display_by_expary_data.exe
+B:\Babbu_BHai\data_display_by_expary_data\data_display_by_expary_data\bin\Debug\net6.0-windows\data_display_by_expary_data.deps.json
+B:\Babbu_BHai\data_display_by_expary_data\data_display_by_expary_data\bin\Debug\net6.0-windows\data_display_by_expary_data.runtimeconfig.json
+B:\Babbu_BHai\data_display_by_expary_data\data_display_by_expary_data\bin\Debug\net6.0-windows\data_display_by_expary_data.dll
+B:\Babbu_BHai\data_display_by_expary_data\data_display_by_expary_data\bin\Debug\net6.0-windows\data_display_by_expary_data.pdb
+B:\Babbu_BHai\data_display_by_expary_data\data_display_by_expary_data\obj\Debug\net6.0-windows\data_display_by_expary_data.csproj.AssemblyReference.cache
+B:\Babbu_BHai\data_display_by_expary_data\data_display_by_expary_data\obj\Debug\net6.0-windows\data_display_by_expary_data.Form1.resources
+B:\Babbu_BHai\data_display_by_expary_data\data_display_by_expary_data\obj\Debug\net6.0-windows\data_display_by_expary_data.csproj.GenerateResource.cache
+B:\Babbu_BHai\data_display_by_expary_data\data_display_by_expary_data\obj\Debug\net6.0-windows\data_display_by_expary_data.GeneratedMSBuildEditorConfig.editorconfig
+B:\Babbu_BHai\data_display_by_expary_data\data_display_by_expary_data\obj\Debug\net6.0-windows\data_display_by_expary_data.AssemblyInfoInputs.cache
+B:\Babbu_BHai\data_display_by_expary_data\data_display_by_expary_data\obj\Debug\net6.0-windows\data_display_by_expary_data.AssemblyInfo.cs
+B:\Babbu_BHai\data_display_by_expary_data\data_display_by_expary_data\obj\Debug\net6.0-windows\data_display_by_expary_data.csproj.CoreCompileInputs.cache
+B:\Babbu_BHai\data_display_by_expary_data\data_display_by_expary_data\obj\Debug\net6.0-windows\data_display_by_expary_data.dll
+B:\Babbu_BHai\data_display_by_expary_data\data_display_by_expary_data\obj\Debug\net6.0-windows\refint\data_display_by_expary_data.dll
+B:\Babbu_BHai\data_display_by_expary_data\data_display_by_expary_data\obj\Debug\net6.0-windows\data_display_by_expary_data.pdb
+B:\Babbu_BHai\data_display_by_expary_data\data_display_by_expary_data\obj\Debug\net6.0-windows\data_display_by_expary_data.genruntimeconfig.cache
+B:\Babbu_BHai\data_display_by_expary_data\data_display_by_expary_data\obj\Debug\net6.0-windows\ref\data_display_by_expary_data.dll
